@@ -14,10 +14,7 @@ public class snake extends Actor
      */
     public void act()
     {
-
-        //Merged and fixed code!
-        //ryan did this
-
         move(3);
+        //partener made a change
     }
 }
