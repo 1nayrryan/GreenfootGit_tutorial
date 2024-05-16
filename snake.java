@@ -17,6 +17,7 @@ public class snake extends Actor
         // Add your action code here.
         move(5);
         if(isAtEdge()){
+            // Christian was here
             turn(45);
         }
     }
