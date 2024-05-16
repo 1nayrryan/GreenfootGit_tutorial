@@ -14,12 +14,17 @@ public class snake extends Actor
      */
     public void act()
     {
+<<<<<<< HEAD
         // Add your action code here.
         move(5);
         if(isAtEdge()){
             // Christian was here
             // Christian made a change
             turn(45);
+=======
+        move(3);
+        //partener made a change
+>>>>>>> a95c4eb3c3f978a690065d64b421ac731044eddd
         }
     }
 }
