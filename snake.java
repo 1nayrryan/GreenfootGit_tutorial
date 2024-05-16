@@ -14,8 +14,10 @@ public class snake extends Actor
      */
     public void act()
     {
-        //Deleted everything
-        //I will do this later
-        //ryan made this change
+
+        //Merged and fixed code!
+        //ryan did this
+
+        move(3);
     }
 }
