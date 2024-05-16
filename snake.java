@@ -18,6 +18,7 @@ public class snake extends Actor
         move(5);
         if(isAtEdge()){
             // Christian was here
+            // Christian made a change
             turn(45);
         }
     }
