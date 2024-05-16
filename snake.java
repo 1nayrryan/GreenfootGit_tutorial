@@ -14,12 +14,8 @@ public class snake extends Actor
      */
     public void act()
     {
-        //this is ryan
-        // Add your action code here.
-        move(5);
-        if(isAtEdge()){
-            // Christian was here
-            turn(45);
+        move(3);
+        //partener made a change
         }
     }
 }
